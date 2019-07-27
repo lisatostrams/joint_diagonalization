@@ -1,7 +1,7 @@
 # Joint Diagonalization
 ### Second Order Blind Inference using Joint Diagonalization
 
-The Second Order Blind Inference (SOBI) algorithm is a Blind Source Seperation technique that uses decorrelation across several time-lags of the signal as its main computation step (Belouchrani, 1997). This repository contains a SOBI implementation in Python 3.4, automated for the application of EOG artifact removal in EEG data as described by Joyce (2004).
+The Second Order Blind Inference (SOBI) algorithm is a Blind Source Seperation technique that uses decorrelation across several time-lags of the signal as its main computation step (Belouchrani, 1997). This repository contains a SOBI implementation in Python 3.4, automated for the application of EOG artefact removal in EEG data as described by Joyce (2004).
 For a tutorial on how to use the SOBI class, see `SOBI tutorial.ipynb`.
 For documentation on the implementation and validation of the SOBI algorithm, see `SOBI_implementation_doc.pdf`
 
